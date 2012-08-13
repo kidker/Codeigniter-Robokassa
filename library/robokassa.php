@@ -6,7 +6,7 @@
  * Robokassa payment-system integration
  *
  * @package		CMS_CodeIgniter
- * @author			index01d [indevelope@x01d.com]
+ * @author		Eduard Antsupov // index01d [indevelope@x01d.com]
  * @copyright		(c) x01d
  * @license		Commercial
  * @link			http://x01d.com/
