@@ -8,7 +8,7 @@
  * @package		CMS_CodeIgniter
  * @author			Eduard Antsupov // index01d [indevelope@x01d.com]
  * @copyright		(c) x01d
- * @license		Commercial
+ * @license		GPL v3
  * @link			http://x01d.com/
  * @version		Version 1.0
  */
